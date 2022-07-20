@@ -14,6 +14,7 @@ begin
   executeSortingAlg('Insertion Sort', @insertion);
   executeSortingAlg('Insertion (recursive) Sort', @insertionRec);
   executeSortingAlg('Bubble Sort', @bubble);
+  executeSortingAlg('Bubble 2 Sort', @bubble2);
   executeSortingAlg('Merge Sort', @merge);
   executeSortingAlg('Quick Sort', @quick);
   executeSortingAlg('Shell Sort', @shell);
